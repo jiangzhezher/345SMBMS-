@@ -8,6 +8,8 @@
   <component name="ChangeListManager">
     <list default="true" id="6872bfd5-2efd-4f02-a6dc-4293e348a684" name="Default Changelist" comment="">
       <change afterPath="$PROJECT_DIR$/../SMBMS-jz/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -150,7 +152,7 @@
   <component name="MavenRunner">
     <option name="jreName" value="1.8" />
   </component>
-  <component name="ProjectFrameBounds">
+  <component name="ProjectFrameBounds" extendedState="1">
     <option name="x" value="510" />
     <option name="y" value="245" />
     <option name="width" value="1380" />
@@ -312,12 +314,12 @@
       <workItem from="1589168895686" duration="715000" />
       <workItem from="1589170249399" duration="1290000" />
       <workItem from="1589177384169" duration="1349000" />
-      <workItem from="1589180441409" duration="21000" />
+      <workItem from="1589180441409" duration="630000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="84935000" />
+    <option name="totallyTimeSpent" value="85544000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -329,7 +331,7 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="445" y="225" width="1104" height="584" extended-state="0" />
+    <frame x="408" y="196" width="1104" height="584" extended-state="1" />
     <layout>
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.35946462" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
