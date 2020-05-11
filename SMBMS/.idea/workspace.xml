@@ -6,7 +6,9 @@
     </artifacts-to-build>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="6872bfd5-2efd-4f02-a6dc-4293e348a684" name="Default Changelist" comment="" />
+    <list default="true" id="6872bfd5-2efd-4f02-a6dc-4293e348a684" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../SMBMS-jz/.idea/vcs.xml" afterDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -50,6 +52,7 @@
   </component>
   <component name="Git.Settings">
     <option name="ROOT_SYNC" value="DONT_SYNC" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
@@ -148,8 +151,8 @@
     <option name="jreName" value="1.8" />
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="1023" />
-    <option name="y" value="345" />
+    <option name="x" value="510" />
+    <option name="y" value="245" />
     <option name="width" value="1380" />
     <option name="height" value="730" />
   </component>
@@ -159,32 +162,22 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
-      <pane id="ProjectPane">
-        <subPane>
-          <expand>
-            <path>
-              <item name="SMBMS" type="b2602c69:ProjectViewProjectNode" />
-              <item name="SMBMS" type="462c0819:PsiDirectoryNode" />
-            </path>
-          </expand>
-          <select />
-        </subPane>
-      </pane>
       <pane id="PackagesPane" />
+      <pane id="Scope" />
+      <pane id="ProjectPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1589179174511" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../githubLocal" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="project.structure.last.edited" value="Artifacts" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.2" />
-    <property name="settings.editor.selected.configurable" value="vcs.Git" />
+    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
@@ -319,11 +312,12 @@
       <workItem from="1589168895686" duration="715000" />
       <workItem from="1589170249399" duration="1290000" />
       <workItem from="1589177384169" duration="1349000" />
+      <workItem from="1589180441409" duration="21000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="84914000" />
+    <option name="totallyTimeSpent" value="84935000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -335,9 +329,9 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="819" y="276" width="1104" height="584" extended-state="0" />
+    <frame x="445" y="225" width="1104" height="584" extended-state="0" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.35277247" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.35946462" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Designer" order="2" />
       <window_info id="Image Layers" order="3" />
@@ -374,6 +368,12 @@
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <ignored-roots>
+      <path value="$PROJECT_DIR$/../githubLocal" />
+      <path value="F:/gitcangku" />
+    </ignored-roots>
   </component>
   <component name="antWorkspaceConfiguration">
     <option name="IS_AUTOSCROLL_TO_SOURCE" value="false" />
